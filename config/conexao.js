@@ -1,4 +1,4 @@
-import mysql from " mysql2/promisse ";
+import mysql2 from " mysql2/promisse ";
 
 const conexao = mysql.createPool({ 
     host: process.env.db_host,
