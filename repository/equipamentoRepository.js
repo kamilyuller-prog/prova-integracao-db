@@ -1,3 +1,4 @@
+
 import conexao from "./..config/conexao.js"
 
 export async function criarEquipamento(equipamento) {
